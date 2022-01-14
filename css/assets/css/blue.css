@@ -2,7 +2,7 @@
 /*  BLUE Color
 /*===================================================================================*/
 a {
-  color: #3498db;
+  color:#ff0000;
 }
 .show-theme-options:hover,
 .show-theme-options:focus {
@@ -381,7 +381,7 @@ a {
   color: #3498db;
 }
 .cnt-homepage .single-product .product-info-block .txt.txt-qty {
-  color: #3498db;
+  color: #DE3163;
 }
 .cnt-homepage .single-product .product-tabs .nav-tab-cell-detail {
   border-bottom: none;
